@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetFrameworkApp", "dotnetFrameworkApp\dotnetFrameworkApp.csproj", "{309EA31C-6321-45B4-89E2-C461544C531E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetFrameworkApp.UnitTestProject", "dotnetFrameworkApp.UnitTestProject\dotnetFrameworkApp.UnitTestProject.csproj", "{EA619C45-4742-4B08-8A30-75C69963B693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{309EA31C-6321-45B4-89E2-C461544C531E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309EA31C-6321-45B4-89E2-C461544C531E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309EA31C-6321-45B4-89E2-C461544C531E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309EA31C-6321-45B4-89E2-C461544C531E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA619C45-4742-4B08-8A30-75C69963B693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA619C45-4742-4B08-8A30-75C69963B693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA619C45-4742-4B08-8A30-75C69963B693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA619C45-4742-4B08-8A30-75C69963B693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {132FA12B-036B-4262-B276-B88300D5707F}
+	EndGlobalSection
+EndGlobal
